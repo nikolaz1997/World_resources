@@ -1,0 +1,16 @@
+﻿<Window x:Class="Projekat.Dijalozi.Tutorijal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekat.Dijalozi"
+        mc:Ignorable="d"
+        Title="Tutorijal" Height="300" Width="750" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <MediaElement x:Name="myMedia" HorizontalAlignment="Left" Height="232" Margin="10,10,0,0" VerticalAlignment="Top" Width="722" Source="20190603_180112.wmv" LoadedBehavior="Manual"/>
+        <Button Content="Play" HorizontalAlignment="Left" Margin="642,62,0,0" VerticalAlignment="Top" Width="74" Click="Play_btn"/>
+        <Button Content="Pause" HorizontalAlignment="Left" Margin="642,119,0,0" VerticalAlignment="Top" Width="75" Click="Pause_btn"/>
+        <Button Content="Stop" HorizontalAlignment="Left" Margin="642,176,0,0" VerticalAlignment="Top" Width="75" Click="Stop_btn"/>
+
+    </Grid>
+</Window>

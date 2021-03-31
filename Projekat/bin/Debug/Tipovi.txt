@@ -1,0 +1,1 @@
+[{"resursi":[],"Oznaka":"1qe1","Naziv":"tip11","Opis":null,"Slika":"F:\\6. semestar\\HCI\\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\\Projekat\\Projekat\\Slike\\logo.png"},{"resursi":[],"Oznaka":"1qe2","Naziv":"tip22","Opis":null,"Slika":"F:\\6. semestar\\HCI\\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\\Projekat\\Projekat\\Slike\\delete_btn.png"}]

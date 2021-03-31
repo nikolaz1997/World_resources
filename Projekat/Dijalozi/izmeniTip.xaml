@@ -1,0 +1,26 @@
+﻿<Window x:Class="Projekat.Dijalozi.izmeniTip"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projekat.Dijalozi"
+        mc:Ignorable="d"
+        Title="Izmeni tip"  Height="349.358" Width="345.07"  WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize">
+    <Grid>
+        <Label Content="Oznaka:" HorizontalAlignment="Left" Margin="24,31,0,0" VerticalAlignment="Top"/>
+        <Label Content="Naziv:" HorizontalAlignment="Left" Margin="26,70,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ikonica:" HorizontalAlignment="Left" Margin="24,206,0,0" VerticalAlignment="Top"/>
+        <Label Content="Opis:" HorizontalAlignment="Left" Margin="24,108,0,0" VerticalAlignment="Top"/>
+        <TextBox IsEnabled="False" Text="{Binding Oznaka}" HorizontalAlignment="Left" Height="23" Margin="113,31,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Text="{Binding Naziv}" Height="23" Margin="113,71,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="203"/>
+        <TextBox HorizontalAlignment="Left" Text="{Binding Opis}" Height="84" Margin="113,108,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="203"/>
+        <Image HorizontalAlignment="Left" x:Name="ikonica" Source="{Binding Slika}" Height="58" Margin="113,206,0,0" VerticalAlignment="Top" Width="67"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="58" Margin="113,206,0,0" VerticalAlignment="Top" Width="67"/>
+        <Button Content="Izaberi ikonicu" x:Name="iko_btn" HorizontalAlignment="Left" Margin="210,220,0,0" VerticalAlignment="Top" Width="106" Click="Iko_btn_Click"/>
+        <Button Content="Izmeni" HorizontalAlignment="Left" x:Name="izm_btn" Margin="149,284,0,0" VerticalAlignment="Top" Width="75" Click="Izm_btn_Click"/>
+        <Button Content="Odustani" HorizontalAlignment="Left" x:Name="odu_btn" Margin="241,284,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Pomoc" HorizontalAlignment="Left" Margin="24,284,0,0" VerticalAlignment="Top" Width="52" Click="Button_Click_1"/>
+
+
+    </Grid>
+</Window>

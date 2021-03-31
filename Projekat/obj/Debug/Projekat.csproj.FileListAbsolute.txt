@@ -1,0 +1,220 @@
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Projekat.exe.config
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Projekat.exe
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Projekat.pdb
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\Resurs.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\App.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\Resurs.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\MainWindow.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.g.resources
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.exe
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\Etiketa.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniEtiketu.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniResurs.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniTip.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\Tip.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\Etiketa.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniEtiketu.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniResurs.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniTip.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\Tip.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteTip.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteTip.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteEtiketu.g.cs
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteEtiketu.baml
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat\Projekat\Projekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Projekat.exe.config
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Projekat.exe
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Projekat.pdb
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\etiketa.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniEtiketu.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniResurs.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniTip.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteEtiketu.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteTip.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\Resurs.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\Tip.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\App.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\Etiketa.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniEtiketu.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniResurs.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniTip.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteEtiketu.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\OdaberiteTip.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\Resurs.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\Tip.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\MainWindow.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.g.resources
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.exe
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Projekat.pdb
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\PregledEtiketa.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\PregledEtiketa.baml
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\pregledTipova.g.cs
+F:\6. semestar\HCI\Probni_projekat(kopija_prve_tacke)\Projekat\Projekat\obj\Debug\Dijalozi\pregledTipova.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Projekat.exe.config
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Projekat.exe
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Projekat.pdb
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\etiketa.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniEtiketu.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniResurs.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniTip.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\PregledEtiketa.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledTipova.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\Resurs.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\tip.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\App.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\etiketa.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniEtiketu.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniResurs.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\IzmeniTip.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\PregledEtiketa.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledTipova.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\Resurs.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\tip.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\MainWindow.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.g.resources
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.Cache
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.exe
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.pdb
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirEtiketa.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirTipa.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirEtiketa.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirTipa.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledResursa.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledResursa.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\Tutorijal.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\Tutorijal.baml
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat_Content.g.cs
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Interop.WMPLib.dll
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Projekat.exe.config
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Projekat.exe
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Projekat.pdb
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Newtonsoft.Json.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\Newtonsoft.Json.xml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Interop.WMPLib.dll
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.ResolveComReference.cache
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\etiketa.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\izmeniEtiketu.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\izmeniResurs.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\izmeniTip.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirEtiketa.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirTipa.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\PregledEtiketa.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledResursa.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledTipova.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\resurs.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\tip.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\Tutorijal.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\MainWindow.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\App.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat_Content.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.cache
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat_MarkupCompile.lref
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\etiketa.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\izmeniEtiketu.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\izmeniResurs.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\izmeniTip.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirEtiketa.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\odabirTipa.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\PregledEtiketa.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledResursa.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\pregledTipova.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\resurs.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\tip.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Dijalozi\Tutorijal.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\MainWindow.baml
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.g.resources
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.exe
+F:\Recovered data 05-11 21_47_55\Deep Scan result\Lost Partition1(NTFS)\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.pdb
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+F:\6. semestar\HCI\GLAVNI_PROJEKAT_Probni_projekat(kopija_prve_tacke) - nosim\Projekat\Projekat\obj\Debug\Projekat.csproj.CopyComplete
